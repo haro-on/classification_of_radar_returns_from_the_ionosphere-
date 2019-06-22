@@ -1,3 +1,4 @@
+# Machine Learning Engineering
 # Deep Learning
 
 ## Motivation:
@@ -11,4 +12,4 @@ On this project, I will use a multi-layers perceptron neural network method (MLP
 ### Features:
 34 columns (V0 to V34): represent the 17 pulse values of the radar system with Continuous values between -1,1
 ### Target Variable: 
-Class colum: has two values [0,1] '0' means bad class  while '1' means good class
+Class column: has two values [0,1] '0' means bad class  while '1' means good class
