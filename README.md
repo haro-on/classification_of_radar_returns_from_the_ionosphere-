@@ -14,4 +14,4 @@ On this project, I will use a multi-layers perceptron neural network method (MLP
 ### Target Variable: 
 Class column: has two values [0,1] '0' means bad class  while '1' means good class
 
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+
